@@ -12,7 +12,7 @@ var EffectList = [
 
 var ActionList = [
   {
-    label: 'General',
+    label: 'EDAS General',
     children: [
       'oss:*',
       'oss:Get*',
